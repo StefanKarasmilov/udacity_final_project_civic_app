@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Political Preparedness</string>
+    <string name="vote_icon_description">Vote icon</string>
+    <string name="upcoming_elections_text">Upcoming Elections</string>
+    <string name="find_my_representatives_text">Find My Representatives</string>
+    <string name="saved_elections_text">Saved Elections</string>
+    <string name="address_line_1_text">Address Line 1</string>
+    <string name="address_line_2_text">Address Line 2</string>
+    <string name="city_text">City</string>
+    <string name="zip_text">Zip</string>
+    <string name="use_my_location_text">Use My Location</string>
+    <string name="corresponding_address_text">Corresponding address</string>
+    <string name="ballot_information_Text">Ballot Information</string>
+    <string name="voting_location_text">Voting Location</string>
+    <string name="election_information_text">Election Information</string>
+    <string name="follow_election_text">Follow Election</string>
+    <string name="unfollow_election_text">Unfollow Election</string>
+    <string name="representatives_text">Representatives</string>
+    <string name="search_representative_text">Search Representative</string>
+    <string name="representative_image_description">Representative image</string>
+    <string name="world_wide_web_icon_description">World Wide Web Icon</string>
+    <string name="facebook_icon_description">Facebook icon</string>
+    <string name="twitter_icon_description">Twitter icon</string>
+    <string name="no_data_found_text">No Data Found</string>
+    <string name="no_data_saved_text">No Data Saved</string>
+
+    <!-- TODO: Add necessary string values -->
+
+</resources>

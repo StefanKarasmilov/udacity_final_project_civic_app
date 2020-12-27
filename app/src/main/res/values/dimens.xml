@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">8dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="normal_padding">16dp</dimen>
+    <dimen name="normal_margin">16dp</dimen>
+    <dimen name="representative_image_size">56dp</dimen>
+    <dimen name="social_icon_size">24dp</dimen>
+
+    <!-- TODO: Add necessary dimension values -->s
+
+</resources>
