@@ -1,3 +1,7 @@
+# This is the final Udacity project for the Android developer program with Kotlin.
+
+## Below are all the requirements that must be met for the project to be admitted.
+
 ## Political Preparedness
 
 PolitcalPreparedness is an example application built to demonstrate core Android Development skills as presented in the Udacity Android Developers Kotlin curriculum. 
